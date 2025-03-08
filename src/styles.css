@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.container {
+  max-width: 800px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.logo {
+  height: 40px; /* Adjust logo size */
+  width: auto;
+}
